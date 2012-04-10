@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BTArtworkFunction</key>
+	<string>artworkUpdate</string>
+	<key>BTArtworkHeight</key>
+	<string>34</string>
+	<key>BTArtworkWidth</key>
+	<string>34</string>
+	<key>BTMainFile</key>
+	<string>underscore.html</string>
+	<key>BTThemeArtist</key>
+	<string>Tom Crichton</string>
+	<key>BTThemeIdentifier</key>
+	<string>com.tomc.shelved</string>
+	<key>BTThemeName</key>
+	<string>Shelved</string>
+	<key>BTThemePreviewImage</key>
+	<string>preview.png</string>
+	<key>BTThemeVersion</key>
+	<string>1.0</string>
+	<key>BTWindowHeight</key>
+	<integer>60</integer>
+	<key>BTWindowWidth</key>
+	<integer>60</integer>
+</dict>
+</plist>
