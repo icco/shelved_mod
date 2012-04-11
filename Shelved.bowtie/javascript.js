@@ -15,7 +15,7 @@ function trackChanged(theTrack) {
   var trackArtist = theTrack.artist || "";
   var trackAlbum = theTrack.album || "";
 
-  $('titleElement').innerHTML = trackTitle;
-  $('artistElement').innerHTML = trackArtist;
-  $('albumElement').innerHTML = trackAlbum;
+  $('title').innerHTML = trackTitle;
+  $('artist').innerHTML = trackArtist;
+  $('albumName').innerHTML = trackAlbum;
 }

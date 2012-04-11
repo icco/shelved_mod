@@ -8,26 +8,42 @@ body {
 	background-repeat: no-repeat;
 }
 
-#album {
+img#album {
 	margin-left: 12px;
 	margin-top: 4px;
 }
 
-#fred {
-	position:absolute;
+img#fred {
+	position: absolute;
 	top: 28px;
 	left: 7px;
 }
 
-#overlay {
+img#overlay {
 	float: none;
 	position: absolute;
 	left: 12px;
 	top: 4px;
 	opacity: 0.6;
 }
-#playcontrols {
+
+img#playcontrols {
 	position: absolute;
 	top: 29px;
 	left: 40px;
+}
+
+#title {
+	position: absolute;
+	left: 60px;
+}
+
+#artist {
+	position: absolute;
+	left: 60px;
+}
+
+#albumName {
+	position: absolute;
+	left: 60px;
 }
