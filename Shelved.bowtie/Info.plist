@@ -4,6 +4,8 @@
 <dict>
 	<key>BTArtworkFunction</key>
 	<string>artworkUpdate</string>
+  <key>BTTrackFunction</key>
+  <string>trackChanged</string>
 	<key>BTArtworkHeight</key>
 	<string>34</string>
 	<key>BTArtworkWidth</key>
