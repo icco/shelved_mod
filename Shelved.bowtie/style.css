@@ -34,12 +34,17 @@ img#playcontrols {
 }
 
 #title, #artist, #albumName {
+  max-width: 100px;
   position: absolute;
   left: 60px;
   color: white;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  background-color: #666;
+  padding: 1px 5px;
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 12px;
 }
 
 #title {
@@ -47,10 +52,10 @@ img#playcontrols {
 }
 
 #artist {
-  top: 1em;
+  top: 1.2em;
 }
 
 #albumName {
-  top: 2em;
+  top: 2.2em;
   display: none;
 }
