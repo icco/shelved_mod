@@ -8,10 +8,10 @@ function artworkUpdate(artURL) {
     $('album').src = artURL;
     $('overlay').src = "images/overlay.png";
   }
-}   
+}
 
 function trackChanged(theTrack) {
-  var trackTitle = theTrack.title || "Nothing Playing";
+  var trackTitle = theTrack.title || "";
   var trackArtist = theTrack.artist || "";
   var trackAlbum = theTrack.album || "";
 

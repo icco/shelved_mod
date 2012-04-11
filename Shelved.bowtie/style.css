@@ -33,17 +33,24 @@ img#playcontrols {
   left: 40px;
 }
 
-#title {
+#title, #artist, #albumName {
   position: absolute;
   left: 60px;
+  color: white;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+#title {
+  top: 0px;
 }
 
 #artist {
-  position: absolute;
-  left: 60px;
+  top: 1em;
 }
 
 #albumName {
-  position: absolute;
-  left: 60px;
+  top: 2em;
+  display: none;
 }
