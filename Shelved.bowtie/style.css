@@ -1,49 +1,49 @@
 body {
-	border: 0;
-	margin: 0;
-	width: 50px;
-	height: 50px;
-	background-image: url("images/shelf.png");
-	background-position: 0px 0px;
-	background-repeat: no-repeat;
+  border: 0;
+  margin: 0;
+  width: 50px;
+  height: 50px;
+  background-image: url("images/shelf.png");
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
 }
 
 img#album {
-	margin-left: 12px;
-	margin-top: 4px;
+  margin-left: 12px;
+  margin-top: 4px;
 }
 
 img#fred {
-	position: absolute;
-	top: 28px;
-	left: 7px;
+  position: absolute;
+  top: 28px;
+  left: 7px;
 }
 
 img#overlay {
-	float: none;
-	position: absolute;
-	left: 12px;
-	top: 4px;
-	opacity: 0.6;
+  float: none;
+  position: absolute;
+  left: 12px;
+  top: 4px;
+  opacity: 0.6;
 }
 
 img#playcontrols {
-	position: absolute;
-	top: 29px;
-	left: 40px;
+  position: absolute;
+  top: 29px;
+  left: 40px;
 }
 
 #title {
-	position: absolute;
-	left: 60px;
+  position: absolute;
+  left: 60px;
 }
 
 #artist {
-	position: absolute;
-	left: 60px;
+  position: absolute;
+  left: 60px;
 }
 
 #albumName {
-	position: absolute;
-	left: 60px;
+  position: absolute;
+  left: 60px;
 }
